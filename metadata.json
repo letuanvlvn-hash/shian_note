@@ -1,0 +1,8 @@
+{
+  "name": "SHIAN NOTE - V1.1",
+  "description": "A professional and luxurious personal dashboard for notes, gallery, appointments, and finance tracking.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
